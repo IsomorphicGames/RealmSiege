@@ -123,6 +123,7 @@
   </assembly>
   <assembly fullname="IsoBattler, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="ARPGFX.ARPGFXRotation" preserve="all" />
+    <type fullname="NHance.Assets.Scripts.Equipment" preserve="all" />
     <type fullname="UnitAudio" preserve="all" />
     <type fullname="UnitController" preserve="all" />
   </assembly>

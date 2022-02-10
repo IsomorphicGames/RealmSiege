@@ -1,7 +1,7 @@
 {
     "Entries" : [
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher.exe",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -9,7 +9,7 @@
         "Hash" : "zjWtTC1NEjNrEPOWvZs+yPihShQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "UnityCrashHandler64.exe",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -17,7 +17,7 @@
         "Hash" : "PR6wkHxaSVPGXBEN7dKxHybIZcc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "UnityPlayer.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -25,7 +25,7 @@
         "Hash" : "oJL0gLLmxDBNHFF4xlhb8NUTS9o"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/app.info",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -33,7 +33,7 @@
         "Hash" : "gMUYY2ix34b1+Ny4CUBCPic4w9Q"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/boot.config",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:03Z",
@@ -41,23 +41,23 @@
         "Hash" : "o8TlrqjHcbbjiokFo6xeBb9WQDo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 2,
         "RelativePath" : "RealmSiegeLauncher_Data/data.unity3d",
         "Attributes" : 32,
-        "LastWriting" : "2022-02-10 15:37:03Z",
-        "Size" : 12391211,
-        "Hash" : "ZzUoJ96YN0ZrQHGkg28+PNJUfuY"
+        "LastWriting" : "2022-02-10 17:15:07Z",
+        "Size" : 12473192,
+        "Hash" : "WnwpkfFizm04YNxWG6R7ZbbCSlc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/resources.resource",
         "Attributes" : 32,
-        "LastWriting" : "2022-02-10 15:37:03Z",
+        "LastWriting" : "2022-02-10 17:15:06Z",
         "Size" : 10528,
         "Hash" : "B3JHng3LGas1Mkss78squpqZ2YU"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/RuntimeInitializeOnLoads.json",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:03Z",
@@ -65,7 +65,7 @@
         "Hash" : "wjd3nCt4JDHPCof400CMocfxolQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/ScriptingAssemblies.json",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:03Z",
@@ -73,7 +73,7 @@
         "Hash" : "bjND5oBTkkWatP34pzDtAUt8VEs"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -81,7 +81,7 @@
         "Hash" : "/2+iGozOJYFSvNn1ZdA099bUHVs"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -89,23 +89,23 @@
         "Hash" : "pxKSl9Yvnk7oTCRkUmI/fpG3Zec"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Assembly-CSharp-firstpass.dll",
         "Attributes" : 32,
-        "LastWriting" : "2022-02-10 15:37:01Z",
+        "LastWriting" : "2022-02-10 17:15:05Z",
         "Size" : 72192,
-        "Hash" : "8BcXJ0w3DSSM4hNMDdVt2uY1Ebk"
+        "Hash" : "AT3OKqK62W3hoYVpco59iTmuCNY"
       },
       {
-        "Operation" : 4,
+        "Operation" : 2,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Assembly-CSharp.dll",
         "Attributes" : 32,
-        "LastWriting" : "2022-02-10 15:37:01Z",
-        "Size" : 146944,
-        "Hash" : "CHgpn0pITixDtbuCbCzbpXafAjU"
+        "LastWriting" : "2022-02-10 17:15:05Z",
+        "Size" : 118784,
+        "Hash" : "sk7VGh9+VO7JyaaAuYmgA0iV6Dc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/DemiLib.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -113,7 +113,7 @@
         "Hash" : "LzP7h01oUvzI03ZfJZhZy+HfaTI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/DOTween.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -121,7 +121,7 @@
         "Hash" : "E4m5wsMKTPAT4xCaZwr1PxspLdM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/DOTweenPro.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -129,7 +129,7 @@
         "Hash" : "tN3EVKAl2HX+efKznojE1YKaj4c"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/DuloGames.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -137,7 +137,7 @@
         "Hash" : "COX4gyvxinzLuJuwKTuwLGuqGr0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/ICSharpCode.SharpZipLib.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -145,15 +145,15 @@
         "Hash" : "7GVBbE2JIpLh8SMo1Nx3v/i9aIo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 2,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/IsoBattler.dll",
         "Attributes" : 32,
-        "LastWriting" : "2022-02-10 15:37:01Z",
-        "Size" : 204800,
-        "Hash" : "IO/pgnBIqCqiRjOTEGZeHLGOGfc"
+        "LastWriting" : "2022-02-10 17:15:05Z",
+        "Size" : 247808,
+        "Hash" : "x+jupgBWsGoEQyEFx2apbomqDSc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/MHLab.Patch.Core.Admin.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -161,7 +161,7 @@
         "Hash" : "7BlyTbmtFk+PYCTyO4jRdHX/zV4"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/MHLab.Patch.Core.Client.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -169,7 +169,7 @@
         "Hash" : "cOlRcd867FK+mwo4vpmtpNYZenc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/MHLab.Patch.Core.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -177,7 +177,7 @@
         "Hash" : "WeezzgYIp4cTRqLH97OKPJatZDk"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/model.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -185,7 +185,7 @@
         "Hash" : "SXEZDS1ylBy7hHuWO9J2W08RCyo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Mono.Security.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -193,7 +193,7 @@
         "Hash" : "0FhoIY3Q2Qwt/pY2qSdXyUrr3es"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/mscorlib.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -201,7 +201,7 @@
         "Hash" : "5gv7d4iJ5DuvAMYaMIhJGC+zIms"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/netstandard.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -209,7 +209,7 @@
         "Hash" : "wttuc3aXfFx/F9gWQGynD5XY4e8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Newtonsoft.Json.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -217,7 +217,7 @@
         "Hash" : "1CRb2OpXbEJQlQszfV0QR8EscDo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Purchasing.Common.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -225,7 +225,7 @@
         "Hash" : "SUpEgPtVMXBp/Xhihw0zW45bA+U"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Sirenix.OdinInspector.Attributes.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -233,7 +233,7 @@
         "Hash" : "hfNPib2bQ/fpKwWWAHZHI9GAV00"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -241,7 +241,7 @@
         "Hash" : "VnPYT6fq+wWgLNH6ATIOn8eJIYY"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Sirenix.OdinInspector.Modules.UnityLocalization.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -249,7 +249,7 @@
         "Hash" : "aRRSJGhi3oXT+I8pSpqHl+ox8aU"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Sirenix.Serialization.Config.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -257,7 +257,7 @@
         "Hash" : "DPLRTuDHCMuqlEvkVMFboFWdkcI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Sirenix.Serialization.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -265,7 +265,7 @@
         "Hash" : "KJjE3kHU8gk8IyUp1AHNl43dBB8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Sirenix.Utilities.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -273,7 +273,7 @@
         "Hash" : "5IJO7z8pDTA4TDUdQE85OQKZars"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.ComponentModel.Composition.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -281,7 +281,7 @@
         "Hash" : "7dzFZWqfTYOQxpVMHt6b/I4xpZg"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Configuration.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -289,7 +289,7 @@
         "Hash" : "XEbebiKMOStzY6+pM34Vo4OLzfo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Core.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -297,7 +297,7 @@
         "Hash" : "FGZsUQNRE2jJgiu1hNksx2Ac5NU"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Data.DataSetExtensions.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -305,7 +305,7 @@
         "Hash" : "+MuD7yoB20o6YY7P0Ja/d8de/eM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Data.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -313,7 +313,7 @@
         "Hash" : "5KRS4bmv+zB5/67ayrjO3gWhk6c"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -321,7 +321,7 @@
         "Hash" : "40r/xoQpVxZqcPKmg/8KR5Xyobo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Drawing.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -329,7 +329,7 @@
         "Hash" : "3PMak4HFDLdXpsdY3nJKDI94Aqo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.EnterpriseServices.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -337,7 +337,7 @@
         "Hash" : "yy8rKaYu38pH2BPtM+APb8oNaWM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.IO.Compression.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -345,7 +345,7 @@
         "Hash" : "xSdx/ZK+iFivJxO2wWWmjmmdpD0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.IO.Compression.FileSystem.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -353,7 +353,7 @@
         "Hash" : "qh6WGC5Cj9POWpJWxWWmk9c7p08"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Net.Http.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -361,7 +361,7 @@
         "Hash" : "ncry5swryZe298mDHsLiH1q3sBg"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Numerics.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -369,7 +369,7 @@
         "Hash" : "0h3+UcafIK8ivh6BnDMXeewqulw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Runtime.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -377,7 +377,7 @@
         "Hash" : "3nK2EB7wMV0PLJk0v2PsdRLfzrU"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Runtime.Serialization.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -385,7 +385,7 @@
         "Hash" : "28m8Xh87ym2dyL7SOsRyWX6HT/s"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Security.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -393,7 +393,7 @@
         "Hash" : "TlI6XCqO7FDV5Tz4jHZXkLGK/R8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.ServiceModel.Internals.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -401,7 +401,7 @@
         "Hash" : "bACzMDNgqnKkgvbTQCOSZuxP1+k"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Transactions.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -409,7 +409,7 @@
         "Hash" : "GbtPrQ3c4IH/7pjV2NX2ymSfNOM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Xml.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -417,7 +417,7 @@
         "Hash" : "1XeViz6H3No32JxOyzJ5z7bz9t0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/System.Xml.Linq.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -425,7 +425,7 @@
         "Hash" : "xwtvnmJ8eKIX63Irkp6gid7tCS8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Addressables.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -433,7 +433,7 @@
         "Hash" : "4o8KQLymzLGRhaWU/BT+hxz0qMM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Analytics.DataPrivacy.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -441,7 +441,7 @@
         "Hash" : "B28tuQKULTqVRm2OUIqBq/eyQjw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Burst.Cecil.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -449,7 +449,7 @@
         "Hash" : "XtvXBdaVcxZ6d5lIuRmmzUTSsO4"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Burst.Cecil.Mdb.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -457,7 +457,7 @@
         "Hash" : "ulsFAe07DCrLXEvFSPWZ23YFtQ8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Burst.Cecil.Pdb.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -465,7 +465,7 @@
         "Hash" : "tH6XUtiUuCkSb1CdzddpMKlexpo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Burst.Cecil.Rocks.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -473,7 +473,7 @@
         "Hash" : "J3G09FR7X9+LBx07itnub4pT4RA"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Burst.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -481,7 +481,7 @@
         "Hash" : "a/FODLnsC3Sq8IC9tG4y18AgTbU"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Burst.Unsafe.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -489,7 +489,7 @@
         "Hash" : "OzTLs/dqc+LxRXHBBSAtxfFH2Ds"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Collections.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -497,7 +497,7 @@
         "Hash" : "uZk3lymS/KSXN+s61ruNUJFdpCc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -505,7 +505,7 @@
         "Hash" : "VPkecSmaxwC2B385o7B9J64tW+g"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.InternalAPIEngineBridge.013.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -513,7 +513,7 @@
         "Hash" : "kPH5xRhkSVR5iyUvrIUsHzRz5mM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Localization.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -521,7 +521,7 @@
         "Hash" : "USfD1iNgq5COdeT7vWrusp4ZY5U"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Mathematics.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -529,7 +529,7 @@
         "Hash" : "xfQ/M8tKmeJ2rQn5HDVMWemQIoM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Multiplayer.MetricTypes.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -537,7 +537,7 @@
         "Hash" : "s69kaaZZ7Oo+Pu+5NUP99JcuT4w"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Multiplayer.NetStats.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -545,7 +545,7 @@
         "Hash" : "/Rdyt3G0kh3bzSm0cVBGdKL2vNs"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Multiplayer.NetStatsReporting.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -553,7 +553,7 @@
         "Hash" : "9F/y3N24Hja6GG9UlvAquPVlsuo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Multiplayer.NetworkProfiler.Runtime.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -561,7 +561,7 @@
         "Hash" : "vrcEkhfOre4T3W+ZNoK1TXT5hSI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Multiplayer.NetworkSolutionInterface.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -569,7 +569,7 @@
         "Hash" : "P0NPzNOPD7Ck6SaxuGA/JzAwmnw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Netcode.Adapter.UTP.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -577,7 +577,7 @@
         "Hash" : "fvJynIB7VY4x4Fz3rTO5mqaoCrc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Netcode.Components.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -585,7 +585,7 @@
         "Hash" : "qS4wnaluGnp0J+UyVaAzkPBZ7QE"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Netcode.Runtime.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -593,7 +593,7 @@
         "Hash" : "0HXTG+uZBvrqo5g39AEuJRgZb3o"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Networking.Transport.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -601,7 +601,7 @@
         "Hash" : "4YTdqW/1i8L1OqgXVSmc29d8ncI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Profiling.Core.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -609,7 +609,7 @@
         "Hash" : "4NS6ZLKPoZx3sE1gIULQTPcIidc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -617,7 +617,7 @@
         "Hash" : "xo+6G/mKYwXgi3tcwFDwUgUVm70"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -625,7 +625,7 @@
         "Hash" : "5gdZDd+yNCY+FOrW2awHBHFj94U"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -633,7 +633,7 @@
         "Hash" : "yuAqar+K8oVLWgxI248fw0P4IRI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -641,7 +641,7 @@
         "Hash" : "GTORo9YJUluQvkczOX8lL6prKas"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -649,7 +649,7 @@
         "Hash" : "HMh9Pd5UUQnjRpbuidvcYUkhPz8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -657,7 +657,7 @@
         "Hash" : "TKNeuZcG90tsMfceeuP/BTGonWE"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.ResourceManager.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -665,7 +665,7 @@
         "Hash" : "15hpLWJotJrWNguFAls6o/Hkwpw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.ScriptableBuildPipeline.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -673,7 +673,7 @@
         "Hash" : "l1oWy6VuPZcAzR+Z4J8q6i7Ey4c"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Authentication.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -681,7 +681,7 @@
         "Hash" : "fNA+twxRFWMDQ/ERFs4QA0wiSUo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.Configuration.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -689,7 +689,7 @@
         "Hash" : "nHcG1sByX9nWyPeUEfwblDagWvk"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.Device.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -697,7 +697,7 @@
         "Hash" : "Sl6RNhGhiFPjbFRAHbjokxb57iY"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -705,7 +705,7 @@
         "Hash" : "dVOkaAbaQfDQB4L49fwuYg/WrL0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.Environments.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -713,7 +713,7 @@
         "Hash" : "BxbOA6E8q2dQYb/MORdBRv+JvcQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.Environments.Internal.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -721,7 +721,7 @@
         "Hash" : "quwsD1SbFcRyxbLL/+r6r/R+4yw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.Internal.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -729,7 +729,7 @@
         "Hash" : "/imXiXP8qNCvxszx07/uJW9aKA0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.Networking.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -737,7 +737,7 @@
         "Hash" : "/XpxTIMQNfHDp0krimBjwFhEj7g"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.Registration.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -745,7 +745,7 @@
         "Hash" : "WxVk7L0gQl7LfyOGLGZ+SD6kRHA"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.Scheduler.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -753,7 +753,7 @@
         "Hash" : "HMpjZXLnUjhKXyvr6Sog1cyUNm4"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Core.Telemetry.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -761,7 +761,7 @@
         "Hash" : "cOWHJJltIF+jamaAopCl8yd46gA"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Lobbies.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -769,7 +769,7 @@
         "Hash" : "xXNw+T2cm13CloXi9D2nnuHuGQQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Services.Relay.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -777,7 +777,7 @@
         "Hash" : "VY7GIx+VqVHlO0j+zFZ9JBZdFNE"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.TextMeshPro.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -785,7 +785,7 @@
         "Hash" : "vy+sYEZJZBA6q+vqb8iFhJj1Aqk"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/Unity.Timeline.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -793,7 +793,7 @@
         "Hash" : "GUPxmC693G09QHAk+QGh9+TjLdw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.AccessibilityModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -801,7 +801,7 @@
         "Hash" : "UZXpLvM9zVNfKE62tygpPQj4nVc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Advertisements.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -809,7 +809,7 @@
         "Hash" : "XxRFPVuU6C7FI0SoFukOv4atbFM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.AIModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -817,7 +817,7 @@
         "Hash" : "FXSPXfRe7JJ4fVXf1TF6z0vm+d8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.AndroidJNIModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -825,7 +825,7 @@
         "Hash" : "v79lFyvl0xM0jSsqnMThmG/Jbkc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.AnimationModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -833,7 +833,7 @@
         "Hash" : "e5dPW3hcKH45J047DB6G2u5qDp0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.ARModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -841,7 +841,7 @@
         "Hash" : "wvPJQgV54/zibdigfdE8eA2vkdk"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.AssetBundleModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -849,7 +849,7 @@
         "Hash" : "sYom29B5/Q23OUPw4Ney7v+XBxw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.AudioModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -857,7 +857,7 @@
         "Hash" : "V0duoeNy9UV5e9gg8IhQiFCGHOI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.ClothModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -865,7 +865,7 @@
         "Hash" : "xOKSBO3G5MEeZB+wyA28BpKTjSQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.ClusterInputModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -873,7 +873,7 @@
         "Hash" : "mVj062AuRlmhRsks+X6SdI57xzY"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.ClusterRendererModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -881,7 +881,7 @@
         "Hash" : "NECunFhLRz6Kh/EkIVen1q34+Js"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.CoreModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -889,7 +889,7 @@
         "Hash" : "Ad37T9R0Lh4N0yYdX2X95mdUGAo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.CrashReportingModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -897,7 +897,7 @@
         "Hash" : "NxdBkQJLu4miBNBD5gPtPIj5uzY"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.DirectorModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -905,7 +905,7 @@
         "Hash" : "U/79JoMLMKr2x8PHfnaGGS6oL7o"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -913,7 +913,7 @@
         "Hash" : "UskaBBZRwbyB3XV2qDPfdodNCaI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.DSPGraphModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -921,7 +921,7 @@
         "Hash" : "qRzCRizRXmE8fr1eOwsMFi5iF9Y"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.GameCenterModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -929,7 +929,7 @@
         "Hash" : "iqn24konBfUfMk2r9xNP/ENocns"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.GIModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -937,7 +937,7 @@
         "Hash" : "Oo9XqDY8zAQuno/7GWFpTZ6XRTo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.GridModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -945,7 +945,7 @@
         "Hash" : "H+5NWx4ALPZRHbw65dHS40AjlVw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.HotReloadModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -953,7 +953,7 @@
         "Hash" : "cQWeQ3/rYJ7PiKyv3QKin0xwmgc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.ImageConversionModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -961,7 +961,7 @@
         "Hash" : "5Ns3rso+fF4V3ffdBKFCDdEO1L0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.IMGUIModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -969,7 +969,7 @@
         "Hash" : "MwF1ov6hDn18B3Kr2hWxDXY7FSc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.InputLegacyModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -977,7 +977,7 @@
         "Hash" : "qyBd3nR0vkuDPHreAGqd2dBkWaA"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.InputModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -985,7 +985,7 @@
         "Hash" : "oNgRVvPRaAAXWcXCam/vnMNoFYw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.JSONSerializeModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -993,7 +993,7 @@
         "Hash" : "/cC8j2/nQKOIokaRksEagI1VLto"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.LocalizationModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1001,7 +1001,7 @@
         "Hash" : "enlNQ+k6JCcHa51ZMUh6LI/jgJ4"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Monetization.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1009,7 +1009,7 @@
         "Hash" : "IcqJk3qhyROiWWUhFPMq+FbfLuo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.NVIDIAModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1017,7 +1017,7 @@
         "Hash" : "wtLt703PvJvTFVMd0dayvosL53Y"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.ParticleSystemModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1025,7 +1025,7 @@
         "Hash" : "COkga5LtwYwyqUO/NKFHHTNfikM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1033,7 +1033,7 @@
         "Hash" : "OIhiNCRVDkvYtl3s8K8+0gfAb1E"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Physics2DModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1041,7 +1041,7 @@
         "Hash" : "AJ+xOkbdHYtgZFt/MlAXVpXAyBQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.PhysicsModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1049,7 +1049,7 @@
         "Hash" : "FYlZp6TopujTAobTNG4pAZneSuc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.ProfilerModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1057,7 +1057,7 @@
         "Hash" : "7xNh4TsE9n/2eYvedIeefa8VzbU"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.AppleCore.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1065,7 +1065,7 @@
         "Hash" : "4ipNOs4qiNLUltUHQ4Fv8C4VFBM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1073,7 +1073,7 @@
         "Hash" : "+Yw6lEFsfzrQxqbzDgRHsWelMPo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.AppleStub.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1081,7 +1081,7 @@
         "Hash" : "qaqrv5BqaGeKYikeEjjmAnptExs"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.Codeless.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1089,7 +1089,7 @@
         "Hash" : "ganj4sfyhAGcZWoaAO7FIAcYOvg"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1097,7 +1097,7 @@
         "Hash" : "KTO8+U/ZmVpJpmmtmmRuuEZptPE"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1105,7 +1105,7 @@
         "Hash" : "1c3BUQGpTBwgk9BFfQuJMz55XcQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1113,7 +1113,7 @@
         "Hash" : "S7IqW3zB5TJ2wkHfHPx4p3r6nVE"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.Stores.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1121,7 +1121,7 @@
         "Hash" : "UgD5cTcCmRudTGwjescMhsG1fQ0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1129,7 +1129,7 @@
         "Hash" : "6ULyJ/5fN5vpBT0cVf6hjrSFqgI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1137,7 +1137,7 @@
         "Hash" : "dGOoEjNSDFCBfKf7hAxZV8Vhpk0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1145,7 +1145,7 @@
         "Hash" : "s1xjdjo5UyOp7owIytN+/nNVuAs"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1153,7 +1153,7 @@
         "Hash" : "2M1Z/lmDh7o8y6zfGlyxAlXX3qw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.SharedInternalsModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1161,7 +1161,7 @@
         "Hash" : "pypCwtx2oIdjRfuWa+F5L9a0vQ8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.SpatialTracking.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1169,7 +1169,7 @@
         "Hash" : "7EYUv3Ku42Rwmfzejt+7xPwHIjM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.SpriteMaskModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1177,7 +1177,7 @@
         "Hash" : "oDQUQH3pU9nvcRKuNPxp4IGfkd0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.SpriteShapeModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1185,7 +1185,7 @@
         "Hash" : "J5ZY5LR531juRsshcAvL5tecSMs"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.StreamingModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1193,7 +1193,7 @@
         "Hash" : "h1MLY8CbozYPQa1anyELYAR1sNg"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.SubstanceModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1201,7 +1201,7 @@
         "Hash" : "QEUEk47e6kcD74evbdP+pzD91MA"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.SubsystemsModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1209,7 +1209,7 @@
         "Hash" : "TKXn0FJUkVIIB2ebwZgIF9kwK+Q"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.TerrainModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1217,7 +1217,7 @@
         "Hash" : "X+aFVXtcLhaAqr8hplmmjRnjWHQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1225,7 +1225,7 @@
         "Hash" : "8sBIcVpzsdRE/aZQ0uArKeZ8vDI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1233,7 +1233,7 @@
         "Hash" : "woXApPIltJwjBSmXJpQu3Yrrezw"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1241,7 +1241,7 @@
         "Hash" : "/pERSo6E615FmPb2iARpN6NpXz4"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.TextRenderingModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1249,7 +1249,7 @@
         "Hash" : "NtHmmRvTvFZsQBSQb+vnKYGL7FM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.TilemapModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1257,7 +1257,7 @@
         "Hash" : "KxlPUQcUWkDreBmSXHAIyjSkBlg"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.TLSModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1265,7 +1265,7 @@
         "Hash" : "wctl6CM3FZc+eGlvj52d6S6uIKQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UI.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1273,7 +1273,7 @@
         "Hash" : "DNaYW0PeZZ40cRIHctQr1oY0/qA"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UIElementsModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1281,7 +1281,7 @@
         "Hash" : "3nrKCJrQa9ozo87CeGJ1HBl4xC8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1289,7 +1289,7 @@
         "Hash" : "UYAalPf2Ap698G3ykPhHY6t0su0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UIModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1297,7 +1297,7 @@
         "Hash" : "yk0rnLZdYrfi63w6MJ0UmFxNLM8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UmbraModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1305,7 +1305,7 @@
         "Hash" : "kZhTdBvjvB1Dy8tFPmt5YA8B070"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UNETModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1313,7 +1313,7 @@
         "Hash" : "5bLR7PWSRLCd48HXYT6GC7HAuJU"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1321,7 +1321,7 @@
         "Hash" : "4GOqOjgNQpIfWumRCt7iwE5si1o"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UnityConnectModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1329,7 +1329,7 @@
         "Hash" : "IkoRu+JPHRzq/juUzVaChAceIZ8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UnityCurlModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1337,7 +1337,7 @@
         "Hash" : "KAF5Nr/Pj/ntDFwhDSiwItsyeAE"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1345,7 +1345,7 @@
         "Hash" : "X9nO+n99N9EttV18dOQ8QMOHXpA"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1353,7 +1353,7 @@
         "Hash" : "WZ7FcYcuCgk5lbefJve6jw4sm58"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1361,7 +1361,7 @@
         "Hash" : "5x9LVnuXWLecsJG1JJPUQSwZu1c"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1369,7 +1369,7 @@
         "Hash" : "3UtCkxADR+jQowvKVFtBDEYhkQ4"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1377,7 +1377,7 @@
         "Hash" : "PnI2e2u39F4dNpFV2+vf9jxHyvg"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1385,7 +1385,7 @@
         "Hash" : "/yOzUoXxipJSCjbB0ZIGueJgPZQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.VehiclesModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1393,7 +1393,7 @@
         "Hash" : "DL9PUUr20ziEWsqbSv6kfEBHf6c"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.VFXModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1401,7 +1401,7 @@
         "Hash" : "6NH6PR8AQryhurVjFWpk+P/v50E"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.VideoModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1409,7 +1409,7 @@
         "Hash" : "UX0QA57I8xEOTFAMP28X292E7x8"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1417,7 +1417,7 @@
         "Hash" : "Q4Z4LR/k/vHTJFOY8Dvcn9x6kPk"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.VRModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1425,7 +1425,7 @@
         "Hash" : "uUIKvcQ6XttXFkE58pB4043wf/w"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.WindModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1433,7 +1433,7 @@
         "Hash" : "84xAyRE+CcyuKVqiV4TIJ98E8BM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1441,7 +1441,7 @@
         "Hash" : "/piG+7mxGmGlSxEF6RbQtpSEmUg"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Managed/UnityEngine.XRModule.dll",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1449,7 +1449,7 @@
         "Hash" : "HiAkkpoT0FS2oMQohNOkzGUWZX0"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Resources/unity default resources",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1457,7 +1457,7 @@
         "Hash" : "jhoeMndvnUSDLFCN4JyBoDfi4Oo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/browscap.ini",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1465,7 +1465,7 @@
         "Hash" : "LVRU4WHeiltlkQ8nvXDZ0K2PpHY"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/config",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1473,15 +1473,15 @@
         "Hash" : "4CpxjY5u+3S9i79woda8ZEBV858"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "RealmSiegeLauncher_Data/Plugins/x86_64/lib_burst_generated.dll",
         "Attributes" : 32,
-        "LastWriting" : "2022-02-10 15:37:01Z",
+        "LastWriting" : "2022-02-10 17:15:05Z",
         "Size" : 325120,
-        "Hash" : "YzoM08j9BUe8WMUgMOz3fFyjJ3c"
+        "Hash" : "IeWjPRwpfjedyZ29iDwHkCA+y84"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1489,7 +1489,7 @@
         "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/machine.config",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1497,7 +1497,7 @@
         "Hash" : "P7zseGrEtugbbS8qsojPZ91nYPQ"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/settings.map",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1505,7 +1505,7 @@
         "Hash" : "3Svi28zTRzZxkwGu6SQp1CWOpaA"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/web.config",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1513,7 +1513,7 @@
         "Hash" : "V05LJAFYUtRayA386K88b9Sk8Jo"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1521,7 +1521,7 @@
         "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/machine.config",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1529,7 +1529,7 @@
         "Hash" : "epvKYeavmtcg2h19JBkmN9kDeIY"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/settings.map",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1537,7 +1537,7 @@
         "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/web.config",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1545,7 +1545,7 @@
         "Hash" : "dxZI+tx+2aQitLwm442FTQZnQtc"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1553,7 +1553,7 @@
         "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/machine.config",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1561,7 +1561,7 @@
         "Hash" : "OS5a5rPa1ZQYvaiQlS7ieospDpA"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/settings.map",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1569,7 +1569,7 @@
         "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/web.config",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1577,7 +1577,7 @@
         "Hash" : "VsTEdQFmS8O81UvlBcw9n30HYfU"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/mconfig/config.xml",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1585,7 +1585,7 @@
         "Hash" : "k2Ug1btcAKGYXXpMTw73Y6kDGGI"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1593,7 +1593,7 @@
         "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
@@ -1601,7 +1601,7 @@
         "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s"
       },
       {
-        "Operation" : 4,
+        "Operation" : 0,
         "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
         "Attributes" : 32,
         "LastWriting" : "2022-02-10 15:37:01Z",
