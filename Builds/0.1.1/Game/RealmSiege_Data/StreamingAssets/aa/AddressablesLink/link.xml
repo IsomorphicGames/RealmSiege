@@ -1,0 +1,258 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="manastation.multistorydungeons.DisableMeshAtRuntime" preserve="all" />
+  </assembly>
+  <assembly fullname="DuloGames, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DuloGames.UI.ColorScheme" preserve="all" />
+    <type fullname="DuloGames.UI.ColorSchemeElement" preserve="all" />
+    <type fullname="DuloGames.UI.ColorSchemeManager" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_AddChatMessage" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_AddChatTestMessages" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_CastManager" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_CharacterSelectList" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_CharacterSelectList_Character" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_CharacterSelectMgr" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_CharacterSelectSlot" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_Chat" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_QuestTrackerCollapse" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_Spellbook_SpellRow" preserve="all" />
+    <type fullname="DuloGames.UI.Demo_XPTooltip" preserve="all" />
+    <type fullname="DuloGames.UI.FlexibleWidthGridLayout" preserve="all" />
+    <type fullname="DuloGames.UI.NicerOutline" preserve="all" />
+    <type fullname="DuloGames.UI.Test_CastBar" preserve="all" />
+    <type fullname="DuloGames.UI.Test_UIEquipSlot_Assign" preserve="all" />
+    <type fullname="DuloGames.UI.Test_UIItemSlot_Assign" preserve="all" />
+    <type fullname="DuloGames.UI.Test_UIItemSlot_AssignAll" preserve="all" />
+    <type fullname="DuloGames.UI.Test_UIProgressBar" preserve="all" />
+    <type fullname="DuloGames.UI.Test_UISpellSlot_Assign" preserve="all" />
+    <type fullname="DuloGames.UI.Test_UISpellSlot_AssignAll" preserve="all" />
+    <type fullname="DuloGames.UI.UIAlwaysOnTop" preserve="all" />
+    <type fullname="DuloGames.UI.UIBlackOverlay" preserve="all" />
+    <type fullname="DuloGames.UI.UIBlackOverlayManager" preserve="all" />
+    <type fullname="DuloGames.UI.UICanvasAnchorToCamera" preserve="all" />
+    <type fullname="DuloGames.UI.UICanvasAspectResize" preserve="all" />
+    <type fullname="DuloGames.UI.UICastBar" preserve="all" />
+    <type fullname="DuloGames.UI.UICircularRaycastFilter" preserve="all" />
+    <type fullname="DuloGames.UI.UICloseAndShowWindow" preserve="all" />
+    <type fullname="DuloGames.UI.UIDragObject" preserve="all" />
+    <type fullname="DuloGames.UI.UIEquipReceiver" preserve="all" />
+    <type fullname="DuloGames.UI.UIEquipSlot" preserve="all" />
+    <type fullname="DuloGames.UI.UIFlippable" preserve="all" />
+    <type fullname="DuloGames.UI.UIHighlightTransition" preserve="all" />
+    <type fullname="DuloGames.UI.UIInputCaretOffset" preserve="all" />
+    <type fullname="DuloGames.UI.UIInputEvent" preserve="all" />
+    <type fullname="DuloGames.UI.UIItemDatabase" preserve="all" />
+    <type fullname="DuloGames.UI.UIItemSlot" preserve="all" />
+    <type fullname="DuloGames.UI.UIJoystick" preserve="all" />
+    <type fullname="DuloGames.UI.UILoadScene" preserve="all" />
+    <type fullname="DuloGames.UI.UIModalBox" preserve="all" />
+    <type fullname="DuloGames.UI.UIModalBoxCreate" preserve="all" />
+    <type fullname="DuloGames.UI.UIModalBoxManager" preserve="all" />
+    <type fullname="DuloGames.UI.UIPressTransition" preserve="all" />
+    <type fullname="DuloGames.UI.UIProgressBar" preserve="all" />
+    <type fullname="DuloGames.UI.UIRectangularRaycastFilter" preserve="all" />
+    <type fullname="DuloGames.UI.UISelectField" preserve="all" />
+    <type fullname="DuloGames.UI.UISliderDisplayValue" preserve="all" />
+    <type fullname="DuloGames.UI.UISliderExtended" preserve="all" />
+    <type fullname="DuloGames.UI.UISlotCooldown" preserve="all" />
+    <type fullname="DuloGames.UI.UISpellDatabase" preserve="all" />
+    <type fullname="DuloGames.UI.UISpellSlot" preserve="all" />
+    <type fullname="DuloGames.UI.UISwitchSelect" preserve="all" />
+    <type fullname="DuloGames.UI.UITab" preserve="all" />
+    <type fullname="DuloGames.UI.UITalentDatabase" preserve="all" />
+    <type fullname="DuloGames.UI.UIToggle_OnOff" preserve="all" />
+    <type fullname="DuloGames.UI.UIToggleActiveTransition" preserve="all" />
+    <type fullname="DuloGames.UI.UIToggleWindowAndTab" preserve="all" />
+    <type fullname="DuloGames.UI.UITooltip" preserve="all" />
+    <type fullname="DuloGames.UI.UITooltipFlipTransform" preserve="all" />
+    <type fullname="DuloGames.UI.UITooltipManager" preserve="all" />
+    <type fullname="DuloGames.UI.UITooltipShow" preserve="all" />
+    <type fullname="DuloGames.UI.UIWindow" preserve="all" />
+    <type fullname="DuloGames.UI.UIWindowManager" preserve="all" />
+    <type fullname="DuloGames.UI.UIWorldCanvasScaleByCamera" preserve="all" />
+    <type fullname="DuloGames.UI.AnimationTriggersExtended" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.ColorBlockExtended" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.Demo_Chat/SendMessageEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.Demo_Chat/TabInfo" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.Demo_Chat/TextEffect" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.OverrideTextAlignment" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.SpriteStateExtended" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UICastBar/ColorStage" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UICastBar/DisplayTime" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UICastBar/Transition" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIDragObject/BeginDragEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIDragObject/DragEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIDragObject/EndDragEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIEquipSlot/OnAssignEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIEquipSlot/OnAssignWithSourceEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIEquipSlot/OnUnassignEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIEquipmentType" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIItemInfo" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIItemQuality" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIItemSlot/OnAssignEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIItemSlot/OnAssignWithSourceEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIItemSlot/OnDoubleClickEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIItemSlot/OnRightClickEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIItemSlot/OnUnassignEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIItemSlot_Group" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIProgressBar/ChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UISelectField/ChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UISelectField/TransitionEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UISpellInfo" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UISpellSlot/OnAssignEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UISpellSlot/OnClickEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UISpellSlot/OnUnassignEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UISpellSlot_Group" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UISwitchSelect/ChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UITalentInfo" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UITooltip/AnchorEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UITooltipLineContent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UITooltipLineStyle" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UITooltipTextEffect" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UITooltipTextEffectType" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIWindow/TransitionBeginEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.UIWindow/TransitionCompleteEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.Demo_CharacterSelectMgr/OnCharacterDeleteEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.Demo_CharacterSelectMgr/OnCharacterSelectedEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.Demo_CharacterSelectList/OnCharacterDeleteEvent" preserve="nothing" serialized="true" />
+    <type fullname="DuloGames.UI.Demo_CharacterSelectList/OnCharacterSelectedEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="IsoBattler, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ARPGFX.ARPGFXRotation" preserve="all" />
+    <type fullname="AutoDestroyPS" preserve="all" />
+    <type fullname="Client.Projectile" preserve="all" />
+    <type fullname="EGA_EffectSound" preserve="all" />
+    <type fullname="IsoARPG.Util.ScalableVFX" preserve="all" />
+    <type fullname="NHance.Assets.Scripts.Equipment" preserve="all" />
+    <type fullname="Rewards.RewardChest" preserve="all" />
+    <type fullname="Slash_Light" preserve="all" />
+    <type fullname="UnitAudio" preserve="all" />
+    <type fullname="UnitController" preserve="all" />
+    <type fullname="VFX.MovingProjectile" preserve="all" />
+    <type fullname="VFX.PlaysSfx" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Localization.Locale" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.StringTable" preserve="all" />
+    <type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.DistributedUIDGenerator" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData/SharedTableEntry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.SmartFormatTag" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalLightData" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Audio.AudioMixer" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.FlareLayer" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightingSettings" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+</linker>
